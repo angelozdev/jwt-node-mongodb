@@ -1,5 +1,5 @@
 {
-  "name": "jwt-node-mondodb",
+  "name": "jwt-node-mondodb-me",
   "version": "1.0.0",
   "description": "https://www.youtube.com/watch?v=qckBlIfOnlA",
   "main": "index.js",
@@ -22,10 +22,6 @@
     "morgan": "^1.10.0"
   },
   "devDependencies": {
-    "@babel/preset-env": "^7.10.4",
-    "babel-loader": "^8.1.0",
-    "dotenv": "^8.2.0",
-    "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.12"
+    "dotenv": "^8.2.0"
   }
 }
